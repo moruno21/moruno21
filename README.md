@@ -6,6 +6,7 @@
 [![My Instagram](https://img.shields.io/badge/-INSTAGRAM-9718D6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moruno01/)
 [![My Twitter](https://img.shields.io/badge/-TWITTER-0CA0CB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moruno_2001)
 
+<br>
 
 ## 📚 Learning 
 
@@ -13,6 +14,7 @@
 
 -> Colaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) as Infrastructure Delegate
 
+<br>
 
 ## 💻 Technologies, tools and languages
 
@@ -28,12 +30,12 @@
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
 
+<br>
 
 ## 🚀 My Github Stats:
 
 |![Moruno21 Github Stats](https://github-readme-stats.vercel.app/api?username=Moruno21&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true)|[![Moruno21 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRigal&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)](https://github.com/Moruno21/github-readme-stats)|
 |---|---|
-
 
 <br>
 
