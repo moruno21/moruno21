@@ -56,4 +56,4 @@ Here I upload some of the proyects that I make at the university and some other 
 
 ## 📝 Contact Me:
 
-[![Marcos Rivera Gavilán.](https://i.imgur.com/1WiLRYL.png)](https://www.uco.es/aulasoftwarelibre/consejo-asesor/)
+[![Antonio Moruno Gracia](https://i.imgur.com/1WiLRYL.png)](https://www.uco.es/aulasoftwarelibre/consejo-asesor/)
