@@ -1,4 +1,4 @@
-### 📫 My Social Networks
+## 📫 My Social Networks
 
 [![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amoruno21@gmail.com)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-moruno-gracia-8b9bb9200/)
@@ -7,14 +7,14 @@
 [![My Twitter](https://img.shields.io/badge/-TWITTER-0CA0CB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moruno_2001)
 
 
-### 📚 Learning 
+## 📚 Learning 
 
 -> Computer Engineering at the [University of Córdoba](http://www.uco.es/)
 
 -> Colaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) as Infrastructure Delegate
 
 
-### 💻 Technologies, tools and languages
+## 💻 Technologies, tools and languages
 
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
