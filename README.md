@@ -41,7 +41,7 @@ Here I upload some of the proyects that I make at the university and some other 
 
 ## 🚀 My Github Stats:
 
-|![Moruno21 Github Stats](https://github-readme-stats.vercel.app/api?username=Moruno21&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true)|[![Moruno21 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosRigal&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)](https://github.com/Moruno21/github-readme-stats)|
+|![Moruno21 Github Stats](https://github-readme-stats.vercel.app/api?username=Moruno21&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true)|[![Moruno21 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moruno21&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)](https://github.com/Moruno21/github-readme-stats)|
 |---|---|
 
 <br>
