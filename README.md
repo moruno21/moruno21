@@ -36,11 +36,15 @@ Here are some ideas to get you started:
 
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+  <br>
+  [![Angular](https://img.shields.io/badge/Angular-E02F2F?style=for-the-badge&logo=angular&logoColor=white)]()
+  [![HTML](https://img.shields.io/badge/HTML-E02F2F?style=for-the-badge&logo=HTML&logoColor=white)]()
+  [![CSS](https://img.shields.io/badge/CSS-E02F2F?style=for-the-badge&logo=CSS&logoColor=white)]()
+  [![TypeScript](https://img.shields.io/badge/TypeScript-E02F2F?style=for-the-badge&logo=TypeScript&logoColor=white)]()
+  <br>
   [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-  [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
-  [![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white)]()
 
 <br>
 
