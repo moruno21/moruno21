@@ -46,11 +46,3 @@ Here I upload some of the proyects that I make at the university and some other 
 
 <br>
 
-## 🧑🏻‍💻 Projects I've Worked On:
-
-|🎓 University: |🔝 Personal Projects: |
-|---|---|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosRigal&repo=Is&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)](https://github.com/MarcosRigal/Is)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosRigal&repo=Master-en-Python-Udemy&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)](https://github.com/MarcosRigal/Master-en-Python-Udemy)|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosRigal&repo=Poo&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)](https://github.com/MarcosRigal/Poo)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosRigal&repo=Angular-10-De-Cero-A-Experto-Udemy&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&hide_border=true)](https://github.com/MarcosRigal/Angular-10-De-Cero-A-Experto-Udemy)|
-<br>
-
