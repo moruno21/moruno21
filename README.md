@@ -22,22 +22,25 @@ Here are some ideas to get you started:
 [![My Instagram](https://img.shields.io/badge/-INSTAGRAM-9718D6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moruno01/)
 [![My Twitter](https://img.shields.io/badge/-TWITTER-0CA0CB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moruno_2001)
 
+<br>
 
+### 📚 Learning 
 
-I'm from Spain, and I'm currently studying Computer Engineering at the [University of Córdoba](http://www.uco.es/). My passions in development are automatization and optimization of task. 
+-> Computer Engineering at the [University of Córdoba](http://www.uco.es/)
 
-I've been colaborating as subdelegate for external relations at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) since February 2020. There I've been learning and using these technologies:
+-> Colaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) as the infrastructure delegate
 
-- Programming languages : <br />
+<br>
+
+### 💻 Technologies, tools and languages
+
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-
-- OS & IDE & Tools : <br />
   [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
   [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)]()
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
+  [![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white)]()
 
 <br>
 
