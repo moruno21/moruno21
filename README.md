@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 [![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amoruno21@gmail.com)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-moruno-gracia-8b9bb9200/)
 [![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Moruno21)
-[![My Instagram](https://img.shields.io/badge/-INSTAGRAM-9A1AED?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moruno01/)
-[![My Twitter](https://img.shields.io/badge/-TWITTER-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://twitter.com/moruno_2001)
+[![My Instagram](https://img.shields.io/badge/-INSTAGRAM-9718D6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moruno01/)
+[![My Twitter](https://img.shields.io/badge/-TWITTER-0CA0CB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moruno_2001)
 
 
 
