@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### 📫 My Social Networks
 
 [![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amoruno21@gmail.com)
@@ -22,7 +6,6 @@ Here are some ideas to get you started:
 [![My Instagram](https://img.shields.io/badge/-INSTAGRAM-9718D6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moruno01/)
 [![My Twitter](https://img.shields.io/badge/-TWITTER-0CA0CB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moruno_2001)
 
-<br>
 
 ### 📚 Learning 
 
@@ -30,7 +13,6 @@ Here are some ideas to get you started:
 
 -> Colaborating at [@aulasoftwarelibre](https://github.com/aulasoftwarelibre) as the infrastructure delegate
 
-<br>
 
 ### 💻 Technologies, tools and languages
 
@@ -42,7 +24,7 @@ Here are some ideas to get you started:
   [![CSS](https://img.shields.io/badge/CSS-E02F2F?style=for-the-badge&logo=CSS&logoColor=white)]()
   [![TypeScript](https://img.shields.io/badge/TypeScript-E02F2F?style=for-the-badge&logo=TypeScript&logoColor=white)]()
   <br>
-  [![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
 
