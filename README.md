@@ -23,7 +23,7 @@
   [![TypeScript](https://img.shields.io/badge/TypeScript-24A2E9?style=for-the-badge&logo=TypeScript&logoColor=white)]()
   [![HTML](https://img.shields.io/badge/HTML-F16616?style=for-the-badge&logo=HTML&logoColor=white)]()
   [![CSS](https://img.shields.io/badge/CSS-24A2E9?style=for-the-badge&logo=CSS&logoColor=white)]()
-  [![CSS](https://img.shields.io/badge/CSS-24A2E9?style=for-the-badge&logo=CSS&logoColor=white)]()
+  <br>
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
