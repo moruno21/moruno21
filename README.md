@@ -1,7 +1,7 @@
 ## 🙇🏻‍♂️ About me
 Hi! I'm Antonio, a computer engineering student from Cordoba, Spain 🇪🇸📍
 
-Here I upload some of the proyects that I make at the university and some other interesting stuff that I make on my own. I hope you find my profile interesting! 😁
+Here I upload some of the proyects that I make at the university and some other interesting stuff that I make on my own. I hope that you find my profile interesting! 😁
 
 <br>
 
