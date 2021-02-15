@@ -19,7 +19,7 @@ Here I upload some of the proyects that I make at the university and some other 
 
 -> Computer Engineering at the [University of Córdoba](http://www.uco.es/)
 
--> Colaborating at [aulasoftwarelibre](https://www.uco.es/aulasoftwarelibre/) as Infrastructure Delegate
+-> Colaborating at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/) as Infrastructure Delegate
 
 <br>
 
