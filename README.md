@@ -26,16 +26,16 @@ Here I upload some of the proyects that I make at the university and some other 
 ## 💻 Technologies, tools and languages
 
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
+  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
   <br>
-  [![Angular](https://img.shields.io/badge/Angular-E02F2F?style=for-the-badge&logo=angular&logoColor=white)]()
-  [![TypeScript](https://img.shields.io/badge/TypeScript-24A2E9?style=for-the-badge&logo=TypeScript&logoColor=white)]()
-  [![HTML](https://img.shields.io/badge/HTML-F16616?style=for-the-badge&logo=HTML&logoColor=white)]()
-  [![CSS](https://img.shields.io/badge/CSS-24A2E9?style=for-the-badge&logo=CSS&logoColor=white)]()
+  [![Angular](https://img.shields.io/badge/Angular-E02F2F?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-24A2E9?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+  [![HTML](https://img.shields.io/badge/HTML-F16616?style=for-the-badge&logo=HTML&logoColor=white)](https://html.com/)
+  [![CSS](https://img.shields.io/badge/CSS-24A2E9?style=for-the-badge&logo=CSS&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
   <br>
-  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
-  [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
-  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)]()
+  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+  [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 <br>
 
