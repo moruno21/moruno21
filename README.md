@@ -34,6 +34,7 @@ Here I upload some of the proyects that I make at the university and some other 
   [![Angular](https://img.shields.io/badge/Angular-E02F2F?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
   [![HTML](https://img.shields.io/badge/HTML5-F16616?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)
   [![CSS](https://img.shields.io/badge/CSS3-24A2E9?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+  [![Node](https://img.shields.io/badge/Nodejs-8abf2e?style=for-the-badge&logo=nodejs&logoColor=white)](https://nodejs.org/es/)
   [![MySQL](https://img.shields.io/badge/MySQL-eb7a09?style=for-the-badge&logo=MYSQL&logoColor=white)](https://Www.mysql.com)
   <br>
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
