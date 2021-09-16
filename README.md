@@ -27,16 +27,20 @@ Here I upload some of the proyects that I make at the university and some other 
 
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
+  [![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)](https://https://www.python.org)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-f0e800?style=for-the-badge&logo=JavaScript&logoColor=black)](https://https://www.javascript.com)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-24A2E9?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
   <br>
   [![Angular](https://img.shields.io/badge/Angular-E02F2F?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-24A2E9?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-FFF633?style=for-the-badge&logo=JavaScript&logoColor=white)](https://https://www.javascript.com)
-  [![HTML](https://img.shields.io/badge/HTML-F16616?style=for-the-badge&logo=HTML&logoColor=white)](https://html.com/)
-  [![CSS](https://img.shields.io/badge/CSS-24A2E9?style=for-the-badge&logo=CSS&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+  [![HTML](https://img.shields.io/badge/HTML5-F16616?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)
+  [![CSS](https://img.shields.io/badge/CSS3-24A2E9?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+  [![MySQL](https://img.shields.io/badge/MySQL-eb7a09?style=for-the-badge&logo=MYSQL&logoColor=white)](https://Www.mysql.com)
   <br>
   [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+  [![Git](https://img.shields.io/badge/Git-eb7a09?style=for-the-badge&logo=git&logoColor=white)](https://github.com/)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+  [![Docker](https://img.shields.io/badge/Docker-24A2E9?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 <br>
 
