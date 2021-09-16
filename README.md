@@ -30,6 +30,7 @@ Here I upload some of the proyects that I make at the university and some other 
   <br>
   [![Angular](https://img.shields.io/badge/Angular-E02F2F?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-24A2E9?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-FFF633?style=for-the-badge&logo=JavaScript&logoColor=white)](https://https://www.javascript.com)
   [![HTML](https://img.shields.io/badge/HTML-F16616?style=for-the-badge&logo=HTML&logoColor=white)](https://html.com/)
   [![CSS](https://img.shields.io/badge/CSS-24A2E9?style=for-the-badge&logo=CSS&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
   <br>
