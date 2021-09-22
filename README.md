@@ -17,9 +17,9 @@ Here I upload some of the proyects that I make at the university and some other 
 
 ## 📚 Learning 
 
--> Computer Engineering at the [University of Córdoba](http://www.uco.es/)
+🖥️ Computer Engineering at [University of Córdoba](http://www.uco.es/)
 
--> Colaborating at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/) as Infrastructure Delegate
+🐧 Colaborating at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/) as Infrastructure Delegate
 
 <br>
 
