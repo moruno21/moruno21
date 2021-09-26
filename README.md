@@ -30,6 +30,7 @@ Here I upload some of the proyects that I make at the university and some other 
   [![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)](https://https://www.python.org)
   [![JavaScript](https://img.shields.io/badge/JavaScript-f0e800?style=for-the-badge&logo=JavaScript&logoColor=black)](https://https://www.javascript.com)
   [![TypeScript](https://img.shields.io/badge/TypeScript-24A2E9?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Shellscript](https://img.shields.io/badge/Shellscript-60605B?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh)
   <br>
   [![Angular](https://img.shields.io/badge/Angular-E02F2F?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
   [![HTML](https://img.shields.io/badge/HTML5-F16616?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)
