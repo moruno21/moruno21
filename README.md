@@ -1,4 +1,5 @@
 ## 🙇🏻‍♂️ About me
+
 Hi! I'm Antonio, a computer engineering student from Cordoba, Spain 🇪🇸📍
 
 Here I upload some of the proyects that I make at the university and some other interesting stuff that I make on my own. I hope that you find my profile interesting! 😁
@@ -15,7 +16,7 @@ Here I upload some of the proyects that I make at the university and some other 
 
 <br>
 
-## 📚 Learning 
+## 📚 Learning
 
 🖥️ Computer Engineering at [University of Córdoba](http://www.uco.es/)
 
@@ -25,31 +26,30 @@ Here I upload some of the proyects that I make at the university and some other 
 
 ## 💻 Technologies, tools and languages
 
-  [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
-  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
-  [![Python](https://img.shields.io/badge/Python-00599C?style=for-the-badge&logo=python&logoColor=white)](https://https://www.python.org)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-f0e800?style=for-the-badge&logo=JavaScript&logoColor=black)](https://https://www.javascript.com)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-24A2E9?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
-  [![Shellscript](https://img.shields.io/badge/Shellscript-60605B?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh)
-  <br>
-  [![Angular](https://img.shields.io/badge/Angular-E02F2F?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-  [![HTML](https://img.shields.io/badge/HTML5-F16616?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)
-  [![CSS](https://img.shields.io/badge/CSS3-24A2E9?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-  [![Node](https://img.shields.io/badge/Nodejs-8abf2e?style=for-the-badge&logo=nodejs&logoColor=white)](https://nodejs.org/es/)
-  [![MySQL](https://img.shields.io/badge/MySQL-eb7a09?style=for-the-badge&logo=MYSQL&logoColor=white)](https://Www.mysql.com)
-  <br>
-  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-  [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-  [![Git](https://img.shields.io/badge/Git-eb7a09?style=for-the-badge&logo=git&logoColor=white)](https://github.com/)
-  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-  [![Docker](https://img.shields.io/badge/Docker-24A2E9?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+<img align="left" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+<img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
+<img align="left" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Markdown" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
+<img align="left" alt="Angular" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="Ubuntu" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" />
 
-<br>
+<br><br><br>
 
 ## 🚀 My Github Stats:
 
-|![Moruno21 Github Stats](https://github-readme-stats.vercel.app/api?username=Moruno21&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true)|[![Moruno21 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moruno21&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)](https://github.com/Moruno21/github-readme-stats)|
-|---|---|
+| ![Moruno21 Github Stats](https://github-readme-stats.vercel.app/api?username=Moruno21&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true) | [![Moruno21 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moruno21&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)](https://github.com/Moruno21/github-readme-stats) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br>
 
