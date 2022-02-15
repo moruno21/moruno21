@@ -4,11 +4,13 @@ Hi! I'm Antonio, a computer engineering student from Cordoba, Spain 🇪🇸📍
 
 Here I upload some of the proyects that I make at the university and some other interesting stuff that I make on my own. I hope that you find my profile interesting! 😁
 
+You can contact me whenever you want in the following mail 📩 amoruno21@gmail.com
+
 <br>
 
 ## 📫 My Social Networks
 
-[![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSBptDxGDcTffHjsdDCPGrxJwBhbPKWVsZLKDcRTznDwnvZZgqDpwshCBkqHFwHBBwwrpSWS)
+
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-moruno-gracia-8b9bb9200/)
 [![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Moruno21)
 [![My Instagram](https://img.shields.io/badge/-INSTAGRAM-9718D6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moruno01/)
