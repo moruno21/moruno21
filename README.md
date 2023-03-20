@@ -1,6 +1,6 @@
 ## 🙋🏻‍♂️ About me
 
-#### 🤖 Junior Frontend Developer at [Certainly](https://certainly.io/)
+#### 🤖 Frontend Developer at [Certainly](https://certainly.io/)
 
 #### 📚 Computer Engineering at [University of Córdoba](http://www.uco.es/)
 
