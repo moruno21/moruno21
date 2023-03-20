@@ -10,10 +10,10 @@
 
 ## 📫 How to reach me
 
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3%"/>](https://twitter.com/moruno01)  &nbsp; 
-<a href="mailto:amoruno21@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3%"/>  &nbsp;
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3%"/>](https://www.linkedin.com/in/antonio-moruno-gracia-8b9bb9200/)  &nbsp; 
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3%"/>](https://www.instagram.com/moruno01/)  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/moruno01)  &nbsp; 
+<a href="mailto:amoruno21@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>  &nbsp;
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/antonio-moruno-gracia-8b9bb9200/)  &nbsp; 
+[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/moruno01/)  &nbsp; 
 
 <br>
 
