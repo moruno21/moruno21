@@ -1,10 +1,10 @@
 ## 🙋🏻‍♂️ About me
 
-#### 🤖 Frontend Developer at [Certainly](https://certainly.io/)
+#### 💊 Software Engineer at [Qualifyze](https://www.qualifyze.com)
 
 #### 📚 Computer Engineering at [University of Córdoba](http://www.uco.es/)
 
-#### 🐧 Colaborating at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/)
+#### 🐧 Former member of [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/)
 
 <br>
 
