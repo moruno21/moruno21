@@ -23,7 +23,7 @@ Product-minded engineer building fast, well-tested products at the intersection 
 <a href="mailto:amoruno21@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/></a> &nbsp;
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/antonio-moruno-gracia-8b9bb9200/) &nbsp;
 [<img src="https://img.icons8.com/material-outlined/48/000000/github.png" width="3.5%"/>](https://github.com/moruno21) &nbsp;
-[<img src="https://img.icons8.com/fluent/48/000000/quill-pen.png" width="3.5%"/>](https://dev.to/moruno21) &nbsp;
+[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="3.5%"/>](https://dev.to/moruno21) &nbsp;
 
 <br>
 
