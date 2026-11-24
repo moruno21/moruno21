@@ -4,7 +4,7 @@
 
 Product-minded engineer building fast, well-tested products at the intersection of **product, design and engineering** — increasingly with **agentic AI in the loop**.
 
-#### 🚀 Currently building ServiceClub Perks at [Service Club](https://serviceclub.com/) — a greenfield employee benefits platform (web + mobile)
+#### 🚀 Currently building at [Embat](https://www.embat.io/) — a treasury management platform for finance teams
 
 #### 📚 B.Sc. in Computer Engineering at [University of Córdoba](http://www.uco.es/)
 
